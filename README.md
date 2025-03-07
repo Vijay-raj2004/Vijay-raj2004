@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Vijay-raj2004
-- 👀 I’m interested in 
+- 👀 I’m interested in VolleyBall
 - 🌱 I’m currently learning B.E
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me www.linkedin.com/in/vijay-raj-41587433b
+
 
 <!---
 Vijay-raj2004/Vijay-raj2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
